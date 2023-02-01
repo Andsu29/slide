@@ -101,7 +101,7 @@ img {
   color: white;
   width: 40px;
   height: 40px;
-  background: rgb(80, 74, 67) url("./img/arrow.svg") center no-repeat;
+  background: #fb5 url("/img/arrow.svg") center no-repeat;
 }
 
 .arrow-nav button.prev {
